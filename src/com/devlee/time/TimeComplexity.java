@@ -35,8 +35,6 @@ public class TimeComplexity {
         int index = 1;
         int result = o1(arr, index);
 
-        Date date = new Date();
-
         System.out.println(fibonacci(45));
 
         System.out.println(result);
